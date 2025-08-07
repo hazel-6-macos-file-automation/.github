@@ -15,7 +15,7 @@ Hazel 6 is a powerful file automation utility for macOS that watches folders and
 
 ## 📸 Overview  
 A quick look at key parts in action:  
-- ![](https://static.macupdate.com/screenshots/340504/m/hazel-screenshot.png?v=1667399039)  
+- ![](https://eshop.macsales.com/blog/wp-content/uploads/2023/06/asw-hazel-macos-in-post.png)  
 - ![](https://www.noodlesoft.com/kb/wp-content/uploads/main.png)  
 
 ## 🎯 Key Features  
